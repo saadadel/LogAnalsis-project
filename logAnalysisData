@@ -1,0 +1,7 @@
+dbname=news user=vagrant password=1511
+select * from sortedarticles;
+THE MOST POPULAR THREE ARTICLES OF ALL TIME:
+select name, sum(views) from joinall group by name order by sum(views) desc
+THE MOST POPULAR ARTICLE AUTHORS OF ALL TIME:
+select n.ok/f.ok::float as percentage, n.time::date from statusok f join statusnotfound n on f.time = n.time order by percentage desc;
+DAYS THAT HAD MORE THAN 1% OF REQUESTS LEAD TO ERROR:

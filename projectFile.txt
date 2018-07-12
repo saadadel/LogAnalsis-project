@@ -1,0 +1,21 @@
+THE MOST POPULAR THREE ARTICLES OF ALL TIME:
+
+
+candidate is jerk _____ views: 338647
+bears love berries _____ views: 253801
+bad things gone _____ views: 170098
+
+
+THE MOST POPULAR ARTICLE AUTHORS OF ALL TIME:
+
+
+Rudolf von Treppenwitz _____ views: 423457
+Ursula La Multa _____ views: 338184
+Anonymous Contributor _____ views: 170098
+Markoff Chaney _____ views: 84557
+
+
+DAYS THAT HAD MORE THAN 1% OF REQUESTS LEAD TO ERROR:
+
+
+2016-07-17 __ 2% 
